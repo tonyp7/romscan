@@ -1,0 +1,18 @@
+[project]
+name = "romscan"
+version = "1.0.0"
+authors = [
+  { name="Tony Pottier", email="contact@tonypottier.com" },
+]
+description = "A package to work with rom dat files such as no-intro dat files that can automatically detects and rename roms"
+readme = "README.md"
+requires-python = ">=3.9"
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "License :: OSI Approved :: MIT License",
+    "Operating System :: OS Independent",
+]
+
+[project.urls]
+"Homepage" = "https://github.com/tonyp7/romdat"
+"Bug Tracker" = "https://github.com/tonyp7/romdat/issues"
